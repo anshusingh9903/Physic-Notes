@@ -1,1 +1,1 @@
-# Physic_Notes
+# Physic-Notes
